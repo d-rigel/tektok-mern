@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb+srv://rigel123:emmanuel444@tektok002.2hmry.mongodb.net/tektokDB?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myjwtSecret"
+}
